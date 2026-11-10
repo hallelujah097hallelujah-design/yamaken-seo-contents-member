@@ -1,0 +1,12 @@
+interface:
+  display_name: yamaken-seo-contents-member
+  short_description: 日本語SEO・口コミ記事を調査・構成・執筆・チェックし、Gutenberg HTMLをmdファイルで納品
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "yamaken-seo-contents-member"
+  short_description: "生徒用SEO記事を調査・構成・執筆し、SWELL形式で仕上げる"
+  default_prompt: "$yamaken-seo-contents-member を使って、指定キーワードの記事を制作してください。"
